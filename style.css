@@ -80,7 +80,7 @@ div:has(.child3:hover) {
 }
 
 .child6 {
-    background-image: url(/assets/images/image-avatar.webp);
+    background-image: url(./assets/images/image-avatar.webp);
     width: 20px;
     height: 20px;
     background-size: 20px 20px;
